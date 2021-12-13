@@ -6,9 +6,9 @@ Um repósitório bem simples implementado como desafio prático dentro das ativi
 ### Sobre o Bootcamp:
 
 O objetivo do Bootcamp é aprender sobre os principais fundamentos de Java e se aprofundar um pouco mais na Stack Java.
-São 97 horas de estudo previstas, com data para finalização em 08/03/2022. Ao todos são **8504** devs inscritos e trilhando as atividades.
+São 97 horas de estudo previstas, com data para finalização em 08/03/2022. Ao todos são **8504** devs inscritos e trilhando as atividades. O Bootcamp já está em andamento e não permite novas inscrições, mas se você se interessou pode verificar o site da [DIO](http://dio.me/en) que é uma plataforma de treinamento e recrutamento em Tecnologia da Informação.
 
-O Bootcamp já está em andamento e não permite novas inscrições, mas se você se interessou pode verificar o site da [DIO](http://dio.me/en) que é uma plataforma de treinamento e recrutamento em Tecnologia da Informação. Na plataforma da __DIO__ você encontrará várias trilhas de treinamento em tecnologias, além de ter acesso a várias oportunidades de treinamento/recrutamento realizadas em parceria com diversas empresas atuantes no mercado global de TI. Há vários Bootcamps em andamento. Normalmente as empresas parceiras realizam vários Bootcamps intercalados. Assim, em breve, aposto que a __Spread__ pode vir a lançar mais alguma ação junto à DIO. Se você já atua com TI (não apenas Java), está à procura de oportunidades de trabalho, mas não quer aguardar o próximo treinamento, dê uma olhada no site da [Spread](http://www.spread.com.br) para vagas abertas no time deles.
+Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para treinamento em tecnologias, além de ter acesso a várias oportunidades de formação/recrutamento realizadas em parceria com diversas empresas atuantes no mercado global de TI. Há vários Bootcamps em andamento. Normalmente as empresas parceiras realizam vários Bootcamps intercalados. Assim, em breve, aposto que a [Spread](http://www.spread.com.br) pode vir a lançar mais alguma ação junto à DIO. Se você já atua com TI (não apenas Java), está à procura de oportunidades de trabalho, mas não quer aguardar o próximo treinamento, dê uma olhada no site da [Spread](http://www.spread.com.br) para vagas abertas no time deles.
 
 
 ## Sequência de atividades/estudo do Bootcamp:
