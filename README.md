@@ -13,39 +13,39 @@ O Bootcamp já está em andamento e não permite novas inscrições, mas se voc�
 
 ## Sequência de atividades/estudo do Bootcamp:
 
-- Boas-vindas ao Bootcamp Spread Java Developer
-- Bem-vindo à DIO
-- Mentoria #1: Aula Inaugural Spread Java Developer
-- Lógica de Programação Essencial
-- Aprenda o que são Estruturas de Dados e Algoritmos
-- Introdução ao Git e ao GitHub
-- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-- Mentoria #2: Como ser o próximo contratado da Spread
-- Mentoria #3: Start coding - Java Essencials 1
-- Dominando IDEs Java
-- Variáveis, Tipos de Dados e Operadores Matemáticos em Java
-- Lógica Condicional e Controle de Fluxos em Java
-- Estruturas de Repetição e Arrays em Java
+- [x] Boas-vindas ao Bootcamp Spread Java Developer
+- [x] Bem-vindo à DIO
+- [x] Mentoria #1: Aula Inaugural Spread Java Developer
+- [x] Lógica de Programação Essencial
+- [x] Aprenda o que são Estruturas de Dados e Algoritmos
+- [x] Introdução ao Git e ao GitHub
+- [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] Mentoria #2: Como ser o próximo contratado da Spread
+- [x] Mentoria #3: Start coding - Java Essencials 1
+- [x] Dominando IDEs Java
+- [x] Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- [x] Lógica Condicional e Controle de Fluxos em Java
+- [x] Estruturas de Repetição e Arrays em Java
 - Reforçando o Conceito de Laços em Java
-- Mentoria #4: Como resolver os desafios de código
-- Resolvendo Desafios de Código em Java
+- [x] Mentoria #4: Como resolver os desafios de código
+- [x] Resolvendo Desafios de Código em Java
 - Desafios Java Developer
 - Estrutura de Dados em Java
 - Trabalhando com Collections Java
 - Implementando Collections e Streams com Java
-- Introdução a Orientação a Objetos com Java
+- [x] Introdução a Orientação a Objetos com Java
 - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-- SQL SERVER - Criando suas primeiras consultas
-- Modelando um banco de dados na prática com SQL SERVER
-- SQL Server: Boas práticas em bancos relacionais
+- [x] SQL SERVER - Criando suas primeiras consultas
+- [x] Modelando um banco de dados na prática com SQL SERVER
+- [x] SQL Server: Boas práticas em bancos relacionais
 - Mentoria #5: ORACLE DATABASE - Diferenciais
 - Introdução a APIs e métodos HTTP
-- Introdução ao framework Spring Boot
+- [x] Introdução ao framework Spring Boot
 - Simplificando Projetos Java com o Spring Boot
 - Introdução aos conceitos de API e Clean Architecture
 - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 - Mentoria #6: Consumindo uma API Rest com Spring. Exemplos
-- Introdução à Qualidade de Software
+- [x] Introdução à Qualidade de Software
 - Aprenda a aplicar testes com Java
 - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja
 - Mentoria #7: Introdução ao teste de Software
