@@ -39,7 +39,7 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 - [x] Modelando um banco de dados na prática com SQL SERVER
 - [x] SQL Server: Boas práticas em bancos relacionais
 - Mentoria #5: ORACLE DATABASE - Diferenciais
-- Introdução a APIs e métodos HTTP
+- [x] Introdução a APIs e métodos HTTP
 - [x] Introdução ao framework Spring Boot
 - Simplificando Projetos Java com o Spring Boot
 - Introdução aos conceitos de API e Clean Architecture
