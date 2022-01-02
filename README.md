@@ -29,25 +29,25 @@ Na plataforma da [DIO](http://dio.me/en) você encontrará várias trilhas para 
 - [x] Reforçando o Conceito de Laços em Java
 - [x] Mentoria #4: Como resolver os desafios de código
 - [x] Resolvendo Desafios de Código em Java
-- Desafios Java Developer
-- Estrutura de Dados em Java
-- Trabalhando com Collections Java
-- Implementando Collections e Streams com Java
+- [x] Desafios Java Developer
+- [x] Estrutura de Dados em Java
+- [x] Trabalhando com Collections Java
+- [x] Implementando Collections e Streams com Java
 - [x] Introdução a Orientação a Objetos com Java
-- Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+- [x] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 - [x] SQL SERVER - Criando suas primeiras consultas
 - [x] Modelando um banco de dados na prática com SQL SERVER
 - [x] SQL Server: Boas práticas em bancos relacionais
 - [x] Mentoria #5: ORACLE DATABASE - Diferenciais
 - [x] Introdução a APIs e métodos HTTP
 - [x] Introdução ao framework Spring Boot
-- Simplificando Projetos Java com o Spring Boot
-- Introdução aos conceitos de API e Clean Architecture
-- Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
-- Mentoria #6: Consumindo uma API Rest com Spring. Exemplos
+- [x] Simplificando Projetos Java com o Spring Boot
+- [x] Introdução aos conceitos de API e Clean Architecture
+- [x] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+- [x] Mentoria #6: Consumindo uma API Rest com Spring. Exemplos
 - [x] Introdução à Qualidade de Software
-- Aprenda a aplicar testes com Java
-- Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja
-- Mentoria #7: Introdução ao teste de Software
-- Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread
+- [x] Aprenda a aplicar testes com Java
+- [x] Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja
+- [x] Mentoria #7: Introdução ao teste de Software
+- [x] Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread
 ***
